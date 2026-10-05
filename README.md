@@ -1,20 +1,48 @@
----
+<h1 align="center">Hi 👋, I'm Ayush Bhalla</h1>
+<h3 align="center">BCA (AI) Student @ Invertis University | Full Stack & AI/CV Enthusiast</h3>
 
-My profile<br><br>🎓 BCA Artificial Intelligence Student | 💡 Aspiring Data Analyst & AI Enthusiast | 🚀 Future Tech Builder<br><br><br>💬 Ask me about<br>- Data Analysis using Python & SQL  <br>- Power BI Dashboards and Reports  <br>- Streamlit App Development  <br>- Database Management Systems  <br>- Operating System Concepts  <br>- AI & Machine Learning Projects  <br><br>I regularly write articles on<br>- Data Visualization and Insights using Power BI  <br>- SQL Queries and Database Management  <br>- AI & Machine Learning Basics for Beginners  <br>- Project Building Guides (Step-by-Step)  <br>- Technical Study Notes from BCA AI Curriculum  <br><br>📄 Know about my experiences<br><br>- 🎓 Currently pursuing **BCA in Artificial Intelligence** @ Invertis University (2024–2027 Batch)  <br>- 📊 Built **Store Sales Data Dashboards** in Power BI  <br>- 🍲 Developed a **Local Food Wastage Management System** using Python, SQL & Streamlit  <br>- 💼 Worked on **Flipkart Customer Support Analysis** project with EDA, ML Models, and Hypothesis Testing  <br>- 🧾 Completed **OutriX Artificial Intelligence Internship** with hands-on AI & ML tasks  <br>- 🌱 Actively learning **Web Development & Cybersecurity** for future projects  <br><br>⚡ Fun fact<br>- I can turn boring datasets into beautiful dashboards 📊✨  <br>- I love mixing creativity with coding 🎨 + 💻  <br>- Apart from tech, I’m working on fitness to achieve a “bulky beast” look 💪🔥  <br>- Always ready to explore AI, Data & Web — one project at a time 🚀  <br><br>✅ Skills Section<br>## 🛠️ Skills<br><br>### Programming Languages  <br>- Python 🐍  <br>- C  <br>- Java (Basics)  <br><br>### Frontend Development  <br>- HTML, CSS, JavaScript (Basic projects & learning phase)  <br><br>### Backend Development  <br>- Streamlit (Python-based)  <br>- Flask (beginner level)  <br><br>### AI / Machine Learning  <br>- NumPy, Pandas, Matplotlib, Seaborn  <br>- Scikit-Learn (ML Models)  <br>- Data Preprocessing & EDA  <br><br>### Database  <br>- SQL (Queries, Joins, CRUD Operations)  <br>- MySQL / SQLite  <br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-bhalla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushbhalla469@gmail.com)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ayushbhalla05&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ayushbhalla05&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushbhalla05&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=Ayushbhalla05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-bhalla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayushbhalla469@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://portfolio-seven-dun-86.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayushbhalla05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+- 🎓 **Education:** Pursuing BCA with specialization in Artificial Intelligence at Invertis University.
+- 💡 **Passionate About:** Building practical full-stack web solutions, computer vision applications, and data analytics tools.
+- 🚀 **Currently Focused on:** React.js, Node.js, Python, Computer Vision, and Clean Code Architecture.
+- 🎯 **Career Goal:** Seeking opportunities as an Associate / Junior Software Developer or Full Stack Trainee.
+- 📍 **Location:** Bareilly, UP, India
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages & Core:**
+- `Python` `JavaScript` `C` `SQL` `HTML5` `CSS3`
+
+**Frameworks & Libraries:**
+- `React.js` `Node.js` `Express.js` `OpenCV` `MediaPipe` `Streamlit` `Tailwind CSS`
+
+**Databases & Tools:**
+- `MySQL` `MongoDB` `Git` `GitHub` `VS Code` `Postman` `Vercel`
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushBhalla05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushBhalla05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Feel free to explore my repositories and connect with me!</i>
+</p>
